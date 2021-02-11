@@ -1,5 +1,5 @@
+# DIY
 Updates All files in a directory with replacement string on line 0
-
 ##### Replacement Strings
 replacement = """ Replacemenent string, make sure this is a multiline string and it ends on below line
 """
