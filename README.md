@@ -6,4 +6,6 @@ replacement = """ Replacemenent string, make sure this is a multiline string and
 """
 ```
 ##### Directory Path to which you want to replace line 0 with replacement string on ALL THE FILES!
+```
 dirr = "/root/my/directory"
+```
